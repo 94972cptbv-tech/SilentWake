@@ -1,1 +1,70 @@
+# Silent Wake Support
+
+Thank you for playing **Silent Wake**.
+
+Silent Wake is a turn-based naval strategy game for iPhone and iPad. Players command either the Destroyer or the Submarine, program hidden orders, and try to outthink their opponent before the final hit is scored.
+
+## Support
+
+For support, bug reports, TestFlight feedback, or gameplay questions, please contact:
+
+**[salvatoreangelone@gmail.com](mailto:salvatoreangelone@gmail.com)**
+
+When reporting an issue, please include:
+
+* Device model
+* iOS or iPadOS version
+* Game mode used: Play vs System, Pass-and-Play, or Online Multiplayer
+* Whether Game Center was signed in
+* A description of what happened
+* A screenshot or screen recording, if possible
+
+## Game Center
+
+Online multiplayer in Silent Wake uses Apple Game Center.
+
+To use online multiplayer:
+
+1. Make sure Game Center is enabled on your iPhone or iPad.
+2. Open Silent Wake.
+3. Choose Online Multiplayer.
+4. Start matchmaking or invite another Game Center player.
+
+Silent Wake does not require a custom account or separate login.
+
+## Gameplay Help
+
+Each round, players secretly program two orders. Each order may include movement and firing. Once both players lock their orders, the round resolves and the score updates.
+
+The first vessel to reach 6 hits wins.
+
+If both vessels are unable to continue or certain end-game conditions are met, the match may end in a draw.
+
+## Game Modes
+
+### Play vs System
+
+Play against the system using Standard or Expert skill level.
+
+### Pass-and-Play
+
+Two players can play locally on the same device. Each player enters hidden orders before the round resolves.
+
+### Online Multiplayer
+
+Play against another player using Apple Game Center.
+
+## Privacy
+
+Silent Wake does not use third-party advertising, does not track users across apps or websites, and does not require a custom account.
+
+Read the Silent Wake Privacy Policy:
+
+https://94972cptbv-tech.github.io/SilentWake/privacy.html
+
+## Current Status
+
+Silent Wake is currently in beta testing through TestFlight.
+
+Thank you for helping test and improve Silent Wake.
 
