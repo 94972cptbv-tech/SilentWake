@@ -64,7 +64,7 @@ When reporting an issue, please include:
 
 Support page:
 
-https://94972cptbv-tech.github.io/SilentWake/Support
+https://94972cptbv-tech.github.io/SilentWake/Support.html
 
 ## Status
 
