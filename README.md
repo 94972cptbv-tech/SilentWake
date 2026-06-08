@@ -63,8 +63,7 @@ When reporting an issue, please include:
 * A screenshot or screen recording, if possible
 
 Support page:
-
-https://94972cptbv-tech.github.io/SilentWake/Support.html
+(https://github.com/94972cptbv-tech/SilentWake/blob/main/Support.html)
 
 ## Status
 
